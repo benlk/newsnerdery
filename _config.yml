@@ -3,7 +3,6 @@ theme: jekyll-theme-cayman
 # Setup
 title:        News Nerdery
 tagline:      An international meta organization to foster news nerd collaboration and knowledge sharing
-baseurl:      ""
 
 # SEO
 twitter:
